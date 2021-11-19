@@ -4,6 +4,7 @@
 *.pt
 
 decathlon-1.0/*
+resnet-results/*
 
 *.out
 .ipynb_checkpoints/*
